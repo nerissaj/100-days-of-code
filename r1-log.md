@@ -1,10 +1,9 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Nerissa Taylor]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [Tuesday May 14, 2019].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+working on survey form from freecodecamp.org responsive web design project.Still getting hang of css flexbox but will work on tomorrow. https://codepen.io/rees1e/pen/qwWRZj
 
-### R1D2
