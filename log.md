@@ -13,10 +13,10 @@ https://codepen.io/rees1e/pen/qwWRZj
 ### Day 1: 2019 May 14/15
 ##### (delete me or comment me out)
 
-**Today's Progress**: 
+**Today's Progress**: made two websites from one with inline-block with thinkfu:https://codepen.io/rees1e/pen/PvpqLX  and the other using freecode camp finish survey project: https://codepen.io/rees1e/pen/qwWRZj
 
-**Thoughts**: 
-**Link(s) to work**: 
+**Thoughts**: I'm getting better with flexbox just got to take time it will come together.
+**Link(s) to work**: Working on css responsive web learning then applying tomorrow.
 
 
 ### Day : 
