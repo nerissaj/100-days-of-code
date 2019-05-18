@@ -26,13 +26,13 @@ https://codepen.io/rees1e/pen/qwWRZj
 **Thoughts** I am feeling better about the HTML and CSS stuff than before and want to at least read over Javascript and React before school starts
 
 **Link(s) to work** Product Landing page https://codepen.io/rees1e/pen/yWbqLB, and flexbox.io projects I want to work on as well.
-### Day : 
+### Day : 3, May 17
 
 **Today's Progress**: 
-
+Work on nav bar animation tutorials so I want to remake it and also started codepen monthly challenge on gravity 
 **Thoughts** 
-
-**Link(s) to work**
+Felling much better on html and css stuff still got to do reps in but want to finish flexbox.io and codepen challenge
+**Link(s) to work**on codepen
 ### Day : 
 
 **Today's Progress**: 
