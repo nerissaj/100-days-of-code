@@ -33,13 +33,15 @@ Work on nav bar animation tutorials so I want to remake it and also started code
 **Thoughts** 
 Felling much better on html and css stuff still got to do reps in but want to finish flexbox.io and codepen challenge
 **Link(s) to work**on codepen
-### Day : 
+### Day : 4 May 23
 
 **Today's Progress**: 
-
+Work on codepen https://codepen.io/rees1e/pen/byLodZ
+put html and css and a little Javascript still working on it
+finish gravity project Tuesday but through tutorial on youtube "Chris Courses on canvas and gravity"
 **Thoughts** 
-
-**Link(s) to work**
+understanding CSS a little more want to work on JavaScript this weekend before Monday.
+**Link(s) to work** https://codepen.io/rees1e/pen/byLodZ still want to add more javascript
 ### Day : 
 
 **Today's Progress**: 
